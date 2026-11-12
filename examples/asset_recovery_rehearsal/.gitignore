@@ -1,0 +1,13 @@
+# Local environment and drill output, created by run.sh.
+.venv/
+.rehearsal/
+.rehearsal_backup/
+
+# Tool caches.
+.ruff_cache/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+# Any alternate workspace chosen with REHEARSAL_WORKSPACE.
+workspaces/
